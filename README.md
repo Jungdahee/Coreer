@@ -30,3 +30,4 @@ MVC 패턴을 이용한 JSP/Servlet 프로젝트로, 한국에 입점해있는 9
 
 ## 사용 Tool
 * Eclipse
+* MySQL
